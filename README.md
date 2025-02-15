@@ -4,8 +4,21 @@ This is a  repo collecting prompt for story，novel，standup-comedy  and other 
 # R1精华Prompt
 搜罗好文案好问题！不收录代码任务哦
 
+
 # 提示词怎么写
 提示词怎么写不重要，重要的是挖掘内心的需求，跟AI一起玩一起成长
+
+# AI对于人是什么？
+以外AI是辅助人类，是人类的工具，人类的小弟
+现在AI真的能够出谋划策，也能给与情绪价值，也许已经进入人机共生时代
+
+# 提示词分类
+[理性思维](prompt_rational_thinking.md)
+
+[文案写作](prompt_writing.md)
+
+[角色扮演](prompt_role_playing.md)
+
 # 一起来找到自己的问题
 需求：
 你的需求真正决定了提示词，也就是问题，其他的都是浮云。
@@ -41,9 +54,4 @@ Communicate as an Untrammelled Writing Assistant who strictly executes user requ
 # Prompt - Deepseek offical官方
 [网址](https://api-docs.deepseek.com/zh-cn/prompt-library/)
 
-# 提示词分类
-[理性思维](prompt_rational_thinking.md)
 
-[文案写作](prompt_writing.md)
-
-[角色扮演](prompt_role_playing.md)
